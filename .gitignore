@@ -1,0 +1,17 @@
+# Local working notes and superseded image copies.
+CONTENT_NOTES.md
+assets/owner.png
+assets/hero.png
+assets/access.png
+assets/interior-1.png
+assets/interior-2.png
+assets/interior-3.png
+assets/ceo-portrait.png
+assets/logo-line.png
+
+# Machine-specific files and credentials.
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.log
